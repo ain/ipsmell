@@ -1,6 +1,14 @@
 # ipsmell
 
-Utility to check if IP address is smelly
+Utility to check if IP address is smelly.
+
+## Usage
+
+    $ ipsmell <ip address>
+
+e.g.:
+
+    $ ipsmell 95.90.252.23
 
 ## License
 
